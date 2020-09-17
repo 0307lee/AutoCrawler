@@ -7,13 +7,13 @@ Google, Naver multiprocess image crawler (High Quality & Speed & Customizable)
 
 1. Install Chrome
 
-2. pip install -r requirements.txt
+2. pip install -r requirements.txt  (in CMD)
 
-3. Write search keywords in keywords.txt
+3. Write search keywords in keywords.txt  (in Folder)
 
-4. **Run "main.py"**
+4. **Run "main.py"**  (in CMD, changes directories to Install directory)
 
-5. Files will be downloaded to 'download' directory.
+5. Files will be downloaded to 'download' directory. (in Folder_ Wait 3mins)
 
 
 # Arguments
